@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T20:43:59.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="IeqQQEV3-pcIN6_dcD1s" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T20:45:07.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="fQ1b2AAxH6TOsJxu-X6m" version="12.3.9" type="github" pages="1">
   <diagram id="dMWM-VIadVQQt7T_pmEm" name="Page-1">
     <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry y="86" width="250" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="3wdbAlkqSyOA0L4QtKuP-12" value="c_Building : c_Entity" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="240" width="250" height="86" as="geometry"/>
+          <mxGeometry x="10" y="210" width="250" height="86" as="geometry"/>
         </mxCell>
         <mxCell id="3wdbAlkqSyOA0L4QtKuP-13" value="+ TypeBuilding : e_TypeBuilding" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3wdbAlkqSyOA0L4QtKuP-12" vertex="1">
           <mxGeometry y="26" width="250" height="26" as="geometry"/>
